@@ -13,14 +13,30 @@ C:\Windows\system32> copy shell di bawah
 Install Packet2 Via Choco
 
 choco install youtube-dl
+
+cara buat Folder baru di Windows
+
+cd /pentest
+
+mkdir VideoYT
+
+cd VideoYT
+
+youtube-dl --help
+
+youtube-dl --F Link Youtube yg mau di Download & Lihat Format yg mau di pilih
+
+youtube-dl -f 136 https://youtu.be/7h27XIK32cw 
 =============================================================================================
 Install Via Termux
 
 pkg update && pkg upgrade
 
 pkg install youtube-dl
-=============================================================================================
-cara buat Folder baru di Windows & Termux 
+
+cara buat Folder baru di Termux 
+
+cd /sdcard
 
 mkdir VideoYT
 

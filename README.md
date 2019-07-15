@@ -2,6 +2,15 @@
 
 # Creator @ Boychongzen aka Xroot
 
+# Termux install youtube-dl
+![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/Screenshot_20190716-015404.png)
+# Termux youtube-dl Format Download
+![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/Screenshot_20190716-015558.png)
+# Termux youtube-dl Download Format Kualitas Video
+![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/Screenshot_20190716-020027.png)
+# Termux Hasil Download Via youtube-dl
+![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/Screenshot_20190716-020138.png)
+
 # Tampilan Terminal Windows ( CMD ) Install youtube-dl via choco
 ![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/yt.jpg)
 # Tampilan Terminal Windows ( CMD ) Help / Bantuan

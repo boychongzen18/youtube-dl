@@ -1,4 +1,6 @@
-# youtube-dl Terminal Windows & Termux Working 
+# Youtube-dl Via Terminal Windows & Termux Working 
+
+# Creator @ Boychongzen aka Xroot
 
 # Tampilan Terminal Windows ( CMD ) Install youtube-dl via choco
 ![be](https://raw.githubusercontent.com/boychongzen18/youtube-dl/master/yt.jpg)

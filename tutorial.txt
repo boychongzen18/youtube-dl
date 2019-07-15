@@ -1,0 +1,13 @@
+Install choco di cmd & Cmder
+
+LINK : https://chocolatey.org/install
+       https://chocolatey.org/packages
+
+C:\Windows\system32> copy shell di bawah
+
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+
+Install Packet2 Via Choco
+
+choco install youtube-dl

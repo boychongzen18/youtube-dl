@@ -28,11 +28,13 @@ youtube-dl --F Link Youtube yg mau di Download & Lihat Format yg mau di pilih
 
 youtube-dl -f 136 https://youtu.be/7h27XIK32cw 
 =============================================================================================
-Install Via Termux
+Install Via Termux & Play Musi Via Termux
 
 pkg update && pkg upgrade
 
 pkg install youtube-dl
+
+pkg install mpv
 
 cara buat Folder baru di Termux 
 
@@ -46,7 +48,9 @@ youtube-dl --help
 
 youtube-dl --F Link Youtube yg mau di Download & Lihat Format yg mau di pilih
 
-youtube-dl -f 136 https://youtu.be/7h27XIK32cw 
+youtube-dl -f 136 https://youtu.be/7h27XIK32cw
+
+mpv /sdcard/VideoYT
 
 =============================================================================================
 
